@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Research Assistant in Systematic Review and Meta-Analysis on Effective Elementary Science Interventions",
+        "company":"School of Education, Johns Hopkins University",
+        "summary":"Automated the handsearch process for meta-analysis using keyword searching Python code. Conducted title, abstract, and full-text screening for more than 14,000 articles",
+        "range":"August 2020 - Present"
+    },
+    {
+        "role":"Research Assistant in ‘Kampong Spirit’ in Singapore HDB Neighborhood",
+        "company":"Department of Economics, Yale-NUS College",
+        "summary":"Collected primary data using multi-language surveys in Singapore HDB",
+        "range":"February 2019 - March 2019"
+    },
+    {
+        "role":"Systems Designer for Building Data Intelligence in Healthcare",
+        "company":"National University of Singapore and Tan Tock Seng Hospital",
+        "summary":"Built Dashboard using Tableau to display key performance indicators of the hospital discharge data",
+        "range":"August 2018 - May 2019"
+    },
+    {
+        "role":"Dissertation Research in Public Versus Private Higher Educational Institutions in ASEAN Countries",
+        "company":"Industrial Systems Engineering and Management, National University of Singapore",
+        "summary":"Compared Public and Private Higher Educational Institutions in Singapore, Vietnam, Malaysia, Indonesia, and Phillipines",
+        "range":"August 2018 - May 2019"
+    }
+]

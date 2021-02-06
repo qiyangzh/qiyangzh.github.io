@@ -1,0 +1,21 @@
+[
+  {
+      "school":"[Johns Hopkins University School of Education](https://education.jhu.edu/)",
+      "degree":"Doctor of Philosophy",
+      "major":"Education",
+      "range":"2020 - present"
+  },
+  {
+      "school":"[University of Pennsylvania Graduate School of Education](https://www.gse.upenn.edu/)",
+      "degree":"Master of Science in Education",
+      "major":"Education Policy",
+      "range":"2019 - 2020"
+  },
+  {
+      "school":"[National University of Singapore](https://nus.edu.sg/)",
+      "degree":"Bachelor of Engineering & Bachelor of Arts",
+      "major":" Industrial Systems Engineering & Economics",
+      "notes":"Honors and Distinction",
+      "range":"2015 - 2019"
+  }
+]

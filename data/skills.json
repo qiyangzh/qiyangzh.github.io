@@ -1,0 +1,18 @@
+[
+  {
+      "grouping":"Statistical Programming and Simulation",
+      "skills":[ "R","Stata","Ithink","Automod", "Tableau"]
+  },
+  {
+      "grouping":"Programming",
+      "skills":[ "Python", "C", "C++"]
+  },
+  {
+      "grouping":"Other Tools",
+      "skills":["MS Excel", "LATEX", "Adobe Illustrator", "Basic SQL"]
+  },
+  {
+      "grouping":"Website Development",
+      "skills":["Hugo", "Wordpress"]
+  }
+]
