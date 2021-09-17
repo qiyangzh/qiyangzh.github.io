@@ -1,5 +1,11 @@
 [
     {
+        "role":"Research Assistant in Social Cultural Survey Project",
+        "company":"School of Education, Johns Hopkins University",
+        "summary":"Cleaned messy data in R",
+        "range":"June 2021 - July 2021"
+    },
+    {
         "role":"Research Assistant in Systematic Review and Meta-Analysis on Effective Elementary Science Interventions",
         "company":"School of Education, Johns Hopkins University",
         "summary":"Automated the handsearch process for meta-analysis using keyword searching Python code. Conducted title, abstract, and full-text screening for more than 14,000 articles",
