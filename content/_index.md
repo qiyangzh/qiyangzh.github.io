@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-I am a PhD student at Johns Hopkins University, School of Education. I am currently working as a research assistant at Center for Research and Reform in Education with my advisor Dr. Robert Slavin. Before coming to Johns Hopkins, I graduated with a master's degree in Education Policy from the Graduate School of Education, University of Pennsylvania. I also hold dual Bachelor's degrees in Economics and Industrial Systems Engineering (with Honors and Distinction) from the National University of Singapore.
+I am a PhD student at Johns Hopkins University, School of Education. My primary research interests include students’ well-being, school-based mental health interventions, and automated meta-analysis workflows. Apart from my work at SPIEE, I also work as a research assistant at Center for Research and Reform in Education. Before coming to Johns Hopkins, I graduated with a master’s degree in Education Policy from the Graduate School of Education, University of Pennsylvania. I also hold dual Bachelor’s degrees in Economics and Industrial Systems Engineering (with Honors and Distinction) from the National University of Singapore.

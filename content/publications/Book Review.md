@@ -2,12 +2,12 @@
 title: "Book review of International Mobility and Educational Desire:
 Chinese Foreign Talent Students in Singapore by Peidong Yang, Perspectives on Urban Education Journal."
 date: 2021-02-05
-pubtype: "Under Review"
+pubtype: "Peer-reviewed Publication"
 featured: true
 description: "Since the Chinese economic reform in 1978, there has been an increase in the number of Chinese students pursuing overseas education. Meanwhile, Singapore, historically an immigration-friendly city-state, has continued attracting migrants from all over the world. The supply and demand met in the 1990s, when a bilateral strategy was formulated to transfer Chinese students into Singapore’s education system. Peidong Yang’s book, titled International Mobility and Educational Desire, documented and analyzed individual students’ experiences using qualitative research methods from an anthropological perspective. Its ethnographic account of scholars from the People’s Republic of China (PRC) in Singapore has contributed to the contemporary study of international students in the city-state. The cross-cultural encounters and educational experiences have offered a nuanced perspective for the public to contemplate the current discourse on immigration."
 tags: ["Singapore","Immigration","China","Foreign Talents"]
 image: "img/peidong.jpg"
-#link: "https://journals.sagepub.com/doi/abs/10.1177/0017896920949894"
+link: "https://urbanedjournal.gse.upenn.edu/archive/volume-18-issue-2-spring-2021"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:
